@@ -1,0 +1,7 @@
+//wtf
+
+<?php
+
+echo "testing";
+
+?>
